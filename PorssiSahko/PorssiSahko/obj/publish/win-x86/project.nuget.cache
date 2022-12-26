@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uf/OuwP0P8HaOOWicJcTexcb99mwFMtKytpXcwckN+PFhbmQoMA27CY5lneCISiNSmt7ei+m/M4Rkq5zDyQ4wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matto\\Documents\\GitHub\\python-web-scraping-spot-prices\\PorssiSahko\\PorssiSahko\\PorssiSahko.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matto\\.nuget\\packages\\aspose.cells\\22.12.0\\aspose.cells.22.12.0.nupkg.sha512",
+    "C:\\Users\\matto\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\matto\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\matto\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\matto\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512",
+    "C:\\Users\\matto\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\matto\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.1\\system.security.cryptography.pkcs.6.0.1.nupkg.sha512",
+    "C:\\Users\\matto\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
+    "C:\\Users\\matto\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.12\\microsoft.netcore.app.runtime.win-x86.6.0.12.nupkg.sha512",
+    "C:\\Users\\matto\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.12\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.12.nupkg.sha512",
+    "C:\\Users\\matto\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.12\\microsoft.aspnetcore.app.runtime.win-x86.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

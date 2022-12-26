@@ -1,0 +1,3 @@
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\win-x86\PorssiSahko.pdb
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\win-x86\libSkiaSharp.dll
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\win-x86\PorssiSahko.exe

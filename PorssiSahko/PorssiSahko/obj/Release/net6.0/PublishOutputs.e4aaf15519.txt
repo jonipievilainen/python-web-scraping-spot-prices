@@ -1,0 +1,13 @@
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\PorssiSahko.exe
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\PorssiSahko.dll
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\PorssiSahko.deps.json
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\PorssiSahko.runtimeconfig.json
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\PorssiSahko.pdb
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\Aspose.Cells.dll
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\SkiaSharp.dll
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\System.Security.Cryptography.Pkcs.dll
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\matto\Documents\GitHub\python-web-scraping-spot-prices\PorssiSahko\PorssiSahko\bin\Release\net6.0\publish\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
